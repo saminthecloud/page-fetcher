@@ -1,0 +1,1 @@
+Sample command: node fetcher.js http://www.example.edu ./index.html 
